@@ -1,9 +1,11 @@
-# Credit-Card-Approval-Prediction
+#💳 Credit-Card-Approval-Prediction
 Machine Learning project to predict credit card approval using Python, Flask and IBM SkillsBuild.
 
-This repository contains my internship project on Credit Card Approval Prediction using Machine Learning.
+### 📌 Project Overview
 
-The project is currently under development.
+The **Credit Card Approval Prediction System** is a Machine Learning-based web application developed to automate the credit card approval process. The system predicts whether a credit card application is likely to be approved or rejected based on an applicant's demographic and financial information.
+
+The project applies data preprocessing, exploratory data analysis (EDA), feature engineering, and multiple machine learning classification algorithms
 
 ### Technologies
 - Python
@@ -13,4 +15,4 @@ The project is currently under development.
 - Flask
 - IBM Cloud
 
-The repository will be updated as the project progresses.
+
